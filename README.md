@@ -7,3 +7,6 @@ The word mapping and model in this code isn't the same one I used for the Tablea
 
 ## Aircraft Crashes With Causes Dataset ##
 This is the dataset used for the Tableau visualizations, which has causes that were labeled using the original word mapping and model.
+
+## Tableau Workbook ##
+This packaged workbook contains the visualizations used in the Medium post.
